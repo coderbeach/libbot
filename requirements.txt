@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+bitsandbytes
+torch
+gradio
+openpyxl
